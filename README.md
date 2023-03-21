@@ -31,12 +31,8 @@
   
   
   
-<!--   <img src="https://play-lh.googleusercontent.com/-N22f90MIvPxQA5EaQ2fR6zF7CDr5MHX2jhkSquwN3fI3LaPalnWoua4jndaPGjXIQ=w2560-h1440-rw" width="128"/> -->
-
-
   
-  
-[<img src="https://play-lh.googleusercontent.com/-N22f90MIvPxQA5EaQ2fR6zF7CDr5MHX2jhkSquwN3fI3LaPalnWoua4jndaPGjXIQ=w2560-h1440-rw" width="128"/>}](https://www.youtube.com/watch?v=GUsFrtllXs8)
+[<img src="https://play-lh.googleusercontent.com/-N22f90MIvPxQA5EaQ2fR6zF7CDr5MHX2jhkSquwN3fI3LaPalnWoua4jndaPGjXIQ=w2560-h1440-rw" width="128"/>](https://www.youtube.com/watch?v=KmyxCgFi8Xk&t=50s)
 [![Coding won’t exist in 5 years? You might be right.](https://ytcards.demolab.com/?id=brAwZ5l_fuQ&title=Coding+won%E2%80%99t+exist+in+5+years%3F+You+might+be+right.&lang=en&timestamp=1678982010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=999 "Coding won’t exist in 5 years? You might be right.")](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
 [![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
 [![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
