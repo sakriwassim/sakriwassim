@@ -11,8 +11,15 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sakriwassim&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white)](https://github.com/sakriwassim)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white)](https://github.com/sakriwassim)
-[Visit my GitHub profile](https://github.com/sakriwassim)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sakriwassim&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakriwassim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakriwassim)](https://git.io/streak-stats)
+[![Wassim's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sakriwassim&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sakriwassim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakriwassim)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Snake](https://github.com/sakriwassim/sakriwassim/blob/output/github-contribution-grid-snake.svg)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sakriwassim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
