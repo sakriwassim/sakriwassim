@@ -17,10 +17,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakriwassim)](https://git.io/streak-stats)
-[![Wassim's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sakriwassim&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sakriwassim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakriwassim)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Snake](https://github.com/sakriwassim/sakriwassim/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Connect with me:</h3>
