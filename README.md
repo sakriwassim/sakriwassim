@@ -18,7 +18,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakriwassim)](https://git.io/streak-stats)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sakriwassim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakriwassim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
