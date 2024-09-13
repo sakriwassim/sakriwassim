@@ -10,6 +10,10 @@
 - 📫 How to reach me **sakriwassim@gmail.com**
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sakriwassim&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white)](https://github.com/sakriwassim)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&logoColor=white)](https://github.com/sakriwassim)
+[Visit my GitHub profile](https://github.com/sakriwassim)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
