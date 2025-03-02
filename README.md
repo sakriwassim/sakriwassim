@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Wassim Sakri</h1>
 <h3 align="center">Software Engineer</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sakriwassim&color=blue)
+
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
